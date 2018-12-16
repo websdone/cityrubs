@@ -1,0 +1,196 @@
+<wpml-config>
+    <admin-texts>
+        <key name="ghostpool_aardvark">
+            <key name="text_logo"/>
+            <key name="copyright_text"/>
+            <key name="post_voting_title"/>
+            <key name="page_voting_title"/>
+            <key name="registration_gdpr_text"/>
+        </key>
+    </admin-texts>
+    <custom-fields>
+        <custom-field action="copy-once">blog_cats</custom-field>
+        <custom-field action="copy-once">blog_post_types</custom-field>
+        <custom-field action="copy-once">blog_format</custom-field>
+        <custom-field action="copy-once">blog_style</custom-field>
+        <custom-field action="copy-once">blog_alignment</custom-field>
+        <custom-field action="copy-once">blog_orderby</custom-field>
+        <custom-field action="copy-once">blog_per_page</custom-field>
+        <custom-field action="copy-once">blog_image_size</custom-field>
+        <custom-field action="copy-once">blog_content_display</custom-field>
+        <custom-field action="copy-once">blog_excerpt_length</custom-field>
+        <custom-field action="copy-once">blog_meta</custom-field>
+        <custom-field action="copy-once">blog_filters</custom-field>
+        <custom-field action="copy-once">blog_filter_cat_id</custom-field>
+        <custom-field action="copy-once">blog_read_more_link</custom-field>
+		<custom-field action="copy-once">link_template_link</custom-field>
+		<custom-field action="copy">link_template_link_target</custom-field>
+        <custom-field action="copy-once">audio_mp3_url</custom-field>
+        <custom-field action="copy-once">audio_ogg_url</custom-field>
+        <custom-field action="copy-once">video_embed_url</custom-field>
+        <custom-field action="copy-once">video_m4v_url</custom-field>
+        <custom-field action="copy-once">video_mp4_url</custom-field>
+        <custom-field action="copy-once">video_webm_url</custom-field>
+        <custom-field action="copy-once">video_ogv_url</custom-field>
+        <custom-field action="copy-once">gallery_slider</custom-field>
+        <custom-field action="copy-once">link</custom-field>
+        <custom-field action="copy">link_target</custom-field>
+        <custom-field action="copy-once">page_header_layout</custom-field>
+        <custom-field action="copy-once">page_header_display</custom-field>
+        <custom-field action="copy-once">page_footer_display</custom-field>
+        <custom-field action="copy-once">page_header</custom-field>
+        <custom-field action="copy-once">page_header_bg</custom-field>
+        <custom-field action="copy-once">page_header_height</custom-field>
+    	<custom-field action="copy-once">page_header_video</custom-field>
+    	<custom-field action="copy-once">page_header_video_bg</custom-field>
+    	<custom-field action="translate">custom_title</custom-field>
+    	<custom-field action="translate">subtitle</custom-field>
+        <custom-field action="copy-once">layout</custom-field>
+        <custom-field action="copy-once">left_sidebar</custom-field>
+        <custom-field action="copy-once">right_sidebar</custom-field>
+        <custom-field action="copy-once">image</custom-field>
+        <custom-field action="ignore">views_total</custom-field>
+        <custom-field action="ignore">_ghostpool_event_import</custom-field>
+       	<custom-field action="ignore">bp_course_group</custom-field>
+        <custom-field action="ignore">_lesson_course</custom-field>
+        <custom-field action="ignore">_lesson_complexity</custom-field>
+        <custom-field action="ignore">_lesson_length</custom-field>
+        <custom-field action="ignore">_quiz_lesson</custom-field>
+        <custom-field action="copy">menu-item-gp-hide-nav-label</custom-field>
+        <custom-field action="copy-once">menu-item-gp-bg-image</custom-field>
+        <custom-field action="copy-once">menu-item-gp-type</custom-field>
+        <custom-field action="copy-once">menu-item-gp-device-display</custom-field>
+        <custom-field action="copy-once">menu-item-gp-user-display</custom-field>
+        <custom-field action="copy-once">menu-item-gp-icon</custom-field>
+        <custom-field action="copy-once">ghostpool_voting_up</custom-field>
+        <custom-field action="copy-once">ghostpool_voting_down</custom-field>
+        <custom-field action="copy">ghostpool_post_submission_email</custom-field>
+        <custom-field action="copy-once">ghostpool_post_submission_form_id</custom-field>
+    </custom-fields>
+    <shortcodes>
+        <shortcode>
+            <tag>gp_activity</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>gp_bp_groups</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>gp_bp_members</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>        
+        <shortcode>
+            <tag>gp_bp_profile_search</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>gp_bp_whos_online</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>  
+        <shortcode>
+            <tag>gp_carousel_images</tag>
+            <attributes>
+                <attribute>widget_title</attribute>
+            </attributes>
+        </shortcode>  
+        <shortcode>
+            <tag>gp_carousel_posts</tag>
+            <attributes>
+                <attribute>widget_title</attribute>
+            </attributes>
+        </shortcode>  
+        <shortcode>
+            <tag>gp_events_calendar</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>  
+        <shortcode>
+            <tag>gp_events</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>          
+        <shortcode>
+            <tag>gp_team_member</tag>
+            <attributes>
+                <attribute>name</attribute>
+                <attribute>position</attribute>
+            </attributes>
+        </shortcode>
+       <shortcode>
+            <tag>gp_testimonial</tag>
+            <attributes>
+                <attribute>headline</attribute>
+                <attribute>name</attribute>
+            </attributes>
+        </shortcode>
+       <shortcode>
+            <tag>gp_pmp_register_form</tag>
+            <attributes>
+                <attribute>button_text</attribute>
+                <attribute>redirect_url</attribute>
+            </attributes>
+        </shortcode>        
+       <shortcode>
+            <tag>gp_post_submission_form</tag>
+            <attributes>
+                <attribute>toc_url</attribute>
+                <attribute>gdpr_text</attribute>
+            </attributes>
+        </shortcode>                  
+       <shortcode>
+            <tag>gp_posts</tag>
+            <attributes>
+                <attribute>widget_title</attribute>
+                <attribute>see_all_text</attribute>
+            </attributes>
+        </shortcode>                                      
+        <shortcode>
+            <tag>gp_pricing_column</tag>
+            <attributes>
+                <attribute>button_text</attribute>
+                <attribute>currency_symbol</attribute>
+                <attribute>header_title</attribute>
+                <attribute>highlight_text</attribute>
+                <attribute>price</attribute>
+                <attribute>trial_price</attribute>
+                <attribute>title</attribute>
+                <attribute>payment_interval</attribute>
+                <attribute>button_link</attribute>
+            </attributes>
+        </shortcode>
+       <shortcode>
+            <tag>gp_showcase</tag>
+            <attributes>
+                <attribute>widget_title</attribute>
+                <attribute>see_all_text</attribute>
+            </attributes>
+        </shortcode> 
+       <shortcode>
+            <tag>gp_statistics</tag>
+            <attributes>
+                <attribute>posts_title</attribute>
+                <attribute>comments_title</attribute>
+                <attribute>activity_title</attribute>
+                <attribute>blogs_title</attribute>
+                <attribute>members_title</attribute>
+                <attribute>online_title</attribute>
+                <attribute>groups_title</attribute>
+                <attribute>forums_title</attribute>
+                <attribute>topics_title</attribute>
+            </attributes>
+        </shortcode>         
+    </shortcodes>
+</wpml-config>

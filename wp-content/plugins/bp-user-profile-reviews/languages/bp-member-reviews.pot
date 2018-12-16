@@ -1,0 +1,518 @@
+# Copyright (C) 2018 
+# This file is distributed under the same license as the  package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-27 12:47+0530\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Varun Dubey\n"
+"Language-Team: Wbcom Designs\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/bupr-admin.php:47
+msgid "Reviews Admin Settings"
+msgstr ""
+
+#: admin/bupr-admin.php:47
+msgid "Member Settings"
+msgstr ""
+
+#: admin/bupr-admin.php:62
+msgid "Email Support"
+msgstr ""
+
+#: admin/bupr-admin.php:63
+msgid "User Manual"
+msgstr ""
+
+#: admin/bupr-admin.php:64
+msgid "Rate Us on WordPress.org"
+msgstr ""
+
+#: admin/bupr-admin.php:68
+msgid "BuddyPress Member Reviews Settings"
+msgstr ""
+
+#: admin/bupr-admin.php:73 admin/bupr-admin.php:78
+msgid "BuddyPress Member Reviews Settings Saved."
+msgstr ""
+
+#: admin/bupr-admin.php:86
+msgid "General"
+msgstr ""
+
+#: admin/bupr-admin.php:87
+msgid "Criteria"
+msgstr ""
+
+#: admin/bupr-admin.php:88
+msgid "Shortcode"
+msgstr ""
+
+#: admin/bupr-admin.php:89
+msgid "Display"
+msgstr ""
+
+#: admin/bupr-admin.php:90
+msgid "Support"
+msgstr ""
+
+#: admin/bupr-admin.php:116 admin/bupr-admin.php:118 admin/bupr-admin.php:119
+#: admin/tab-templates/bupr-setting-display-tab.php:41
+#: admin/tab-templates/bupr-setting-general-tab.php:130
+#: includes/bupr-filters.php:78 includes/bupr-filters.php:206
+#: includes/bupr-filters.php:252 includes/bupr-filters.php:303
+#: includes/bupr-filters.php:508 includes/bupr-shortcodes.php:45
+msgid "Reviews"
+msgstr ""
+
+#: admin/bupr-admin.php:117
+msgid "Review"
+msgstr ""
+
+#: admin/bupr-admin.php:120 admin/bupr-admin.php:121
+msgid "Add New Review"
+msgstr ""
+
+#: admin/bupr-admin.php:122
+msgid "New Review"
+msgstr ""
+
+#: admin/bupr-admin.php:123
+msgid "View Reviews"
+msgstr ""
+
+#: admin/bupr-admin.php:124
+msgid "All Reviews"
+msgstr ""
+
+#: admin/bupr-admin.php:125
+msgid "Search Reviews"
+msgstr ""
+
+#: admin/bupr-admin.php:126
+msgid "Parent Review:"
+msgstr ""
+
+#: admin/bupr-admin.php:127
+msgid "No Review Found"
+msgstr ""
+
+#: admin/bupr-admin.php:128
+msgid "No Review Found In Trash"
+msgstr ""
+
+#: admin/bupr-admin.php:164
+msgctxt "taxonomy general name"
+msgid "Reviews Category"
+msgstr ""
+
+#: admin/bupr-admin.php:165
+msgctxt "taxonomy singular name"
+msgid "Review Category"
+msgstr ""
+
+#: admin/bupr-admin.php:166
+msgid "Search Categories"
+msgstr ""
+
+#: admin/bupr-admin.php:167
+msgid "All Categories"
+msgstr ""
+
+#: admin/bupr-admin.php:168
+msgid "Parent Category"
+msgstr ""
+
+#: admin/bupr-admin.php:169
+msgid "Parent Category:"
+msgstr ""
+
+#: admin/bupr-admin.php:170
+msgid "Edit Category"
+msgstr ""
+
+#: admin/bupr-admin.php:171
+msgid "Update Category"
+msgstr ""
+
+#: admin/bupr-admin.php:172
+msgid "Add Category"
+msgstr ""
+
+#: admin/bupr-admin.php:173
+msgid "New Category Name"
+msgstr ""
+
+#: admin/bupr-admin.php:174
+msgid "Category"
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-criteria-tab.php:33
+msgid "Review Criteria(s)"
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-criteria-tab.php:41
+msgid "Allow Multiple Criteria(s)? "
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-criteria-tab.php:49
+msgid ""
+"Enable this option,if you want to allow members to be rated by "
+"'Criteria(s)'."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-criteria-tab.php:71
+msgid "Remove criteria fields permanently."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-criteria-tab.php:79
+msgid "Enable/Disable criteria fields from review form."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-criteria-tab.php:91
+msgid ""
+"This option provide you to add multiple rating criteria. By default, no "
+"criteria will be shown until you active it."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-criteria-tab.php:97
+#: admin/tab-templates/bupr-setting-display-tab.php:76
+#: admin/tab-templates/bupr-setting-general-tab.php:166
+msgid "Save Settings"
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-display-tab.php:27
+msgid "Note"
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-display-tab.php:28
+msgid ""
+" Rating will be displayed in Review form, if and only if you added criteria "
+"for review."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-display-tab.php:32
+msgid "Labels"
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-display-tab.php:46
+msgid "Change Labels from BuddyPress tab and review form."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-display-tab.php:55
+msgid "Colors "
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-display-tab.php:63
+msgid "Rating color"
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-display-tab.php:68
+msgid "This option lets you to change star rating color."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-general-tab.php:53
+msgid "General Settings"
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-general-tab.php:65
+msgid "Multiple Review"
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-general-tab.php:73
+msgid ""
+"Enable this option, if you want to add functionality to user can send "
+"multiple review to same user."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-general-tab.php:80
+msgid "Auto approve reviews "
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-general-tab.php:88
+msgid ""
+"Enable this option, if you want to have the reviews automatically approved, "
+"else manual approval will be required."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-general-tab.php:95
+msgid "Emails "
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-general-tab.php:103
+msgid ""
+"Enable this option, if you want that member receive an email when someone "
+"add review in its profile."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-general-tab.php:110
+msgid "BuddyPress notifications "
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-general-tab.php:118
+msgid ""
+"Enable this option, if you want that member receive email when someone add "
+"review in its profile."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-general-tab.php:125
+msgid "Reviews pages show at most"
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-general-tab.php:131
+msgid "This option lets you limit number of reviews in Member Reviews page."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-general-tab.php:138
+msgid "Exclude Members for review"
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-general-tab.php:160
+msgid ""
+"This option lets you choose those members that you don't want to provide "
+"review functionality."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-shortcode-tab.php:17
+msgid "Reviews Shortcode "
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-shortcode-tab.php:32
+msgid " This shortcode will be display BP member review form."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-support-tab.php:15
+msgid "FAQ(s) "
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-support-tab.php:24
+msgid "How can we submit the review to a member profile by using this plugin?"
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-support-tab.php:28
+msgid ""
+"When visiting the \"/members\" section in the site, go for single profile "
+"view page, there you can see a menu namely, \"Reviews\" that will allow you "
+"if you are a site member to add profile review"
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-support-tab.php:36
+msgid "What does the admin settings mean?"
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-support-tab.php:40
+msgid ""
+"The admin settings modifies the review creation template. If the popup "
+"allowed is checked, the form is will appear in a popup, otherwise the form "
+"will toggle on the same page."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-support-tab.php:48
+msgid "How can we add more rating criteria for review form ?"
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-support-tab.php:52
+msgid ""
+"Just go to \"Dashboard->Review->BP member review setting page\" and click "
+"add criteria button to add more fields and click save setting button to "
+"update review settings."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-support-tab.php:60
+msgid "What is the Top Members widget and how to use it ?"
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-support-tab.php:64
+msgid ""
+"Members Review widgets display list of members on site front-end . When you "
+"successfully activate BP Member profile review plugin. Then you can see "
+"Members reivew widget in the widget section."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-support-tab.php:72
+msgid "Can I use the review form on any other page?"
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-support-tab.php:75
+msgid ""
+"Yes you can use the review form on other page, just copy shortcode from "
+"review setting page and paste it on the other page."
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-support-tab.php:82
+msgid "Where do I ask for support?"
+msgstr ""
+
+#: admin/tab-templates/bupr-setting-support-tab.php:85
+#, php-format
+msgid "Please visit %1$s for any query related to plugin and BuddyPress."
+msgstr ""
+
+#: buddypress-member-review.php:96
+#, php-format
+msgid "%1$s is ineffective now as it requires %2$s to function correctly."
+msgstr ""
+
+#: includes/bupr-ajax.php:318
+#, php-format
+msgid "%s Welcome ! %s %s %s You have a new review on your member profile %s."
+msgstr ""
+
+#: includes/bupr-ajax.php:319
+msgid "To read your review click on the link given below."
+msgstr ""
+
+#: includes/bupr-ajax.php:329
+msgid ""
+" Thank you for taking the time to write this wonderful review. Your review "
+"will display on member profile after moderator approval."
+msgstr ""
+
+#: includes/bupr-ajax.php:331
+msgid " Thank you for taking the time to write this wonderful review!"
+msgstr ""
+
+#: includes/bupr-ajax.php:335
+msgid "Please try again!"
+msgstr ""
+
+#: includes/bupr-ajax.php:347
+msgid "Please select a member."
+msgstr ""
+
+#: includes/bupr-ajax.php:351
+msgid "You already posted a review for this member."
+msgstr ""
+
+#: includes/bupr-filters.php:218 includes/bupr-filters.php:232
+#: includes/bupr-filters.php:576
+msgid "Add "
+msgstr ""
+
+#: includes/bupr-filters.php:415
+msgid "Rating "
+msgstr ""
+
+#: includes/bupr-filters.php:562
+msgid "View"
+msgstr ""
+
+#: includes/bupr-filters.php:640
+msgid "You must login !."
+msgstr ""
+
+#: includes/bupr-notification.php:36
+msgid "Member Reviews"
+msgstr ""
+
+#: includes/bupr-notification.php:132
+msgid "A new review posted."
+msgstr ""
+
+#: includes/bupr-notification.php:133
+#, php-format
+msgid "%s posted a review"
+msgstr ""
+
+#: includes/bupr-shortcodes.php:121
+#, php-format
+msgid "You already posted a %s for this member."
+msgstr ""
+
+#: includes/bupr-shortcodes.php:153
+#, php-format
+msgid "Fill in details to submit %s"
+msgstr ""
+
+#: includes/bupr-shortcodes.php:159
+msgid "--Select--"
+msgstr ""
+
+#: includes/bupr-shortcodes.php:168 includes/bupr-shortcodes.php:173
+#: includes/bupr-shortcodes.php:176 includes/bupr-shortcodes.php:198
+msgid "This field is required."
+msgstr ""
+
+#: includes/bupr-shortcodes.php:173
+msgid "Review Subject"
+msgstr ""
+
+#: includes/bupr-shortcodes.php:176
+msgid "Review Description"
+msgstr ""
+
+#: includes/bupr-shortcodes.php:211
+#, php-format
+msgid "Submit %s"
+msgstr ""
+
+#: includes/templates/bupr-reviews-tab-template.php:110
+msgid "read more..."
+msgstr ""
+
+#: includes/templates/bupr-reviews-tab-template.php:189
+msgid "Sorry, no reviews were found."
+msgstr ""
+
+#: includes/templates/bupr-single-review-template.php:67
+msgid "Posted on"
+msgstr ""
+
+#: includes/widgets/display-review.php:15
+msgid "Display members list according to members reviews "
+msgstr ""
+
+#: includes/widgets/display-review.php:22
+msgid " Top Members : Display members list accoding to reviews"
+msgstr ""
+
+#: includes/widgets/display-review.php:219
+msgid "Rating"
+msgstr ""
+
+#: includes/widgets/display-review.php:221
+msgid "Total "
+msgstr ""
+
+#: includes/widgets/display-review.php:229
+msgid "No member has been reviewed yet."
+msgstr ""
+
+#: includes/widgets/display-review.php:258
+msgid "Top Members"
+msgstr ""
+
+#: includes/widgets/display-review.php:271
+msgid "Enter Title"
+msgstr ""
+
+#: includes/widgets/display-review.php:275
+msgid "Display Members"
+msgstr ""
+
+#: includes/widgets/display-review.php:282
+msgid "Top Rated "
+msgstr ""
+
+#: includes/widgets/display-review.php:287
+msgid "Most Reviewed"
+msgstr ""
+
+#: includes/widgets/display-review.php:295
+msgid "Display Avatar "
+msgstr ""
